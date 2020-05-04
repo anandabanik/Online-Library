@@ -1,0 +1,8 @@
+CREATE TABLE StudentInfo(
+    student_name TEXT(30) NOT NULL,
+    registration_no INT(15) NOT NULL,
+    phone INT(15),
+    gender TEXT(10),
+    department TEXT (20),
+    merit INT(15)
+); 
